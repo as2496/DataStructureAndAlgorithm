@@ -4,6 +4,7 @@ namespace PracticeDatastructureAndAlgorithm
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
             //Recursion.FibonacciSeries(0,1,5);
@@ -15,5 +16,6 @@ namespace PracticeDatastructureAndAlgorithm
             Console.WriteLine("Result found in position {0}",res);
             Console.ReadLine();
         }
+       
     }
 }
